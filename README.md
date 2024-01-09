@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunazz2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4FB2CF&height=150&section=footer" />
 
 
